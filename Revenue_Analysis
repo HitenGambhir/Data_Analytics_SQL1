@@ -1,0 +1,133 @@
+
+Title: Beauty and Healthcare Products Supply Chain Optimization Project
+
+Introduction:
+In a dedicated effort to enhance the efficiency of the supply chain for beauty and healthcare products, I initiated a comprehensive data-driven project using SQL queries. This project aimed to optimize various aspects of the supply chain, including revenue analysis, cost management, production alignment with market demands, and overall profitability.
+
+Revenue Analysis:
+
+Total Revenue:
+
+Total revenue generated from beauty and healthcare products amounted to $577,604.82.
+Revenue by Product Type:
+
+Skincare: $241,628.16
+Haircare: $174,455.39
+Cosmetics: $161,521.27
+Revenue by Location:
+
+Mumbai: $137,755.03
+Kolkata: $137,077.55
+Chennai: $119,142.82
+Bangalore: $102,601.72
+Delhi: $81,027.70
+Revenue Contribution Percentage:
+
+Mumbai: 23.85%
+Kolkata: 23.73%
+Chennai: 20.63%
+Bangalore: 17.76%
+Delhi: 14.03%
+Cost Management and Profitability:
+5. Overall Profitability by Product:
+
+Skincare: $219,399.16
+Haircare: $157,125.39
+Cosmetics: $148,156.27
+Profit by Location:
+
+Mumbai: $128,332
+Kolkata: $124,794
+Chennai: $106,707
+Bangalore: $92,041
+Delhi: $72,807
+Profit Contribution Percentage:
+
+Mumbai: 24.46%
+Kolkata: 23.78%
+Chennai: 20.34%
+Bangalore: 17.54%
+Delhi: 13.88%
+Production and Inventory Optimization:
+8. Stock Levels and Lead Times:
+
+Stock Levels: 4,777 units
+Lead Times: 1,596 units
+Order Quantities by Location:
+
+Kolkata: 1,228 units
+Chennai: 1,109 units
+Mumbai: 1,083 units
+Bangalore: 769 units
+Delhi: 733 units
+Average Lead Time by Product:
+
+Skincare: 16.70 days
+Haircare: 15.53 days
+Cosmetics: 15.38 days
+Cost Analysis and Price Relations:
+11. Most Costly Products to Produce:
+- Skincare: $1,959.73
+- Haircare: $1,647.57
+- Cosmetics: $1,119.37
+
+Relation of Manufacturing Cost to Selling Price:
+
+Cosmetics: $372.02
+Haircare: -$83.09
+Skincare: -$69.35
+Correlation of Inspection Result and Manufacturing Cost:
+
+Fail: $1,880.30 (39.78%)
+Pending: $1,785.07 (37.77%)
+Pass: $1,061.30 (22.45%)
+Supply Chain Logistics:
+14. Most Common Transport Modes Used:
+- Sea
+
+Impact of Different Transportation Modes on Lead Time and Cost:
+
+Road: Lead Times - 497, Cost - $16,047
+Air: Lead Times - 475, Cost - $14,606
+Rail: Lead Times - 417, Cost - $15,169
+Sea: Lead Times - 207, Cost - $7,102
+Most Common Routes Used:
+
+Route C
+Impact of Different Routes on Costs and Lead Times:
+
+Route B: Lead Times - 637, Cost - $22,040
+Route A: Lead Times - 632, Cost - $20,875
+Route C: Lead Times - 327, Cost - $10,009
+Correlation Between Inspection Result and Defect Rate:
+
+Fail: Defect Rate - 40.62%, Average Defect Rate - 2.57
+Pending: Defect Rate - 38.79%, Average Defect Rate - 2.15
+Pass: Defect Rate - 20.59%, Average Defect Rate - 2.04
+Average Defect Rate for Each Product:
+
+Haircare: 2.48%
+Skincare: 2.33%
+Cosmetics: 1.92%
+How Lead Time Affects Stock Levels and Availability:
+
+Lead Times: 1,596 units
+Stock Levels: 4,777 units
+Availability: 4,840 units
+Production Volume Aligned with Market Demands:
+
+Kolkata: 27.21%
+Mumbai: 23.18%
+Chennai: 21.10%
+Delhi: 14.73%
+Bangalore: 13.78%
+Percentage of Production Volumes Aligned with Market Demands:
+
+Kolkata: 27.21%
+Mumbai: 23.18%
+Chennai: 21.10%
+Delhi: 14.73%
+Bangalore: 13.78%
+Overall Production Volumes Aligned with Market Demands:
+
+Total Production Volumes: 56,784 units
